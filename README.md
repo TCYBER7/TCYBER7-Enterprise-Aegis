@@ -54,6 +54,6 @@ Result: The browser will hang infinitely (Tarpit effect), and your IP will be bl
 🛒 Purchase The Full Enterprise Package
 The full Enterprise Edition ($150+) contains the 1-Click production installer (deploy_aegis.sh) for live Linux servers, complete Systemd service integration, and automated reverse proxy forwarding to your internal server ports (e.g., port 8080).
 
-👉 [Purchase Enterprise Aegis on Gumroad](https://https://tcyber7.gumroad.com/l/gekdiv)
+👉 [Purchase Enterprise Aegis on Gumroad](https://tcyber7.gumroad.com/l/gekdiv)
 📄 License
 This repository contains the public demo code. The full enterprise deployment bundle is distributed under the MIT License for commercial license holders.
